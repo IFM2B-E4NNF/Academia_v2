@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="87e1a354-3741-498e-83e6-7e1429833f53" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:52558/ACD_Service.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ACD_Service.xsd" MetadataType="Schema" ID="9b746181-01e1-4746-ae62-ce7adce91881" SourceId="1" SourceUrl="http://localhost:52558/ACD_Service.svc?xsd=xsd0" />
+    <MetadataFile FileName="ACD_Service.wsdl" MetadataType="Wsdl" ID="9f7cac85-4b11-4721-ab7e-83ba6b18dd60" SourceId="1" SourceUrl="http://localhost:52558/ACD_Service.svc?wsdl" />
+    <MetadataFile FileName="ACD_Service.disco" MetadataType="Disco" ID="05bd1dab-89ea-4627-9d96-bd297507d645" SourceId="1" SourceUrl="http://localhost:52558/ACD_Service.svc?disco" />
+    <MetadataFile FileName="ACD_Service1.xsd" MetadataType="Schema" ID="6c739dde-c234-4da2-9547-de9ddc0689b0" SourceId="1" SourceUrl="http://localhost:52558/ACD_Service.svc?xsd=xsd2" />
+    <MetadataFile FileName="ACD_Service2.xsd" MetadataType="Schema" ID="6f9ebed2-76a3-4d4a-a11f-0da54b9e2ccf" SourceId="1" SourceUrl="http://localhost:52558/ACD_Service.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
