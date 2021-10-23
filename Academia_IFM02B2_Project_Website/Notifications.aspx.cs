@@ -23,7 +23,7 @@ namespace Academia_IFM02B2_Project_Website
             foreach (ContactUSs us in contactUs)
             {
 
-                display += "< div class='card-body'>";
+                display += "<div class='card-body'>";
                 display += "<div class='row'>";
                 display += "<div class='col-md-8'>";
                 display += $"<h4 class='card-title'>{us.Firstname}</h4>";

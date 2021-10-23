@@ -5,3 +5,10 @@ C:\Users\Dennis\VisualStudioProjects\Academia_v2\Academia_IFM02B2_Project_Servic
 C:\Users\Dennis\VisualStudioProjects\Academia_v2\Academia_IFM02B2_Project_Service\obj\Debug\Academia_IFM02B2_Project_Service.csproj.CoreCompileInputs.cache
 C:\Users\Dennis\VisualStudioProjects\Academia_v2\Academia_IFM02B2_Project_Service\obj\Debug\Academia_IFM02B2_Project_Service.dll
 C:\Users\Dennis\VisualStudioProjects\Academia_v2\Academia_IFM02B2_Project_Service\obj\Debug\Academia_IFM02B2_Project_Service.pdb
+C:\Users\Jo'Ash\Documents\GitHub\Academia_v2\Academia_IFM02B2_Project_Service\bin\Academia_IFM02B2_Project_Service.dll.config
+C:\Users\Jo'Ash\Documents\GitHub\Academia_v2\Academia_IFM02B2_Project_Service\bin\Academia_IFM02B2_Project_Service.dll
+C:\Users\Jo'Ash\Documents\GitHub\Academia_v2\Academia_IFM02B2_Project_Service\bin\Academia_IFM02B2_Project_Service.pdb
+C:\Users\Jo'Ash\Documents\GitHub\Academia_v2\Academia_IFM02B2_Project_Service\obj\Debug\Academia_IFM02B2_Project_Service.csproj.AssemblyReference.cache
+C:\Users\Jo'Ash\Documents\GitHub\Academia_v2\Academia_IFM02B2_Project_Service\obj\Debug\Academia_IFM02B2_Project_Service.csproj.CoreCompileInputs.cache
+C:\Users\Jo'Ash\Documents\GitHub\Academia_v2\Academia_IFM02B2_Project_Service\obj\Debug\Academia_IFM02B2_Project_Service.dll
+C:\Users\Jo'Ash\Documents\GitHub\Academia_v2\Academia_IFM02B2_Project_Service\obj\Debug\Academia_IFM02B2_Project_Service.pdb
